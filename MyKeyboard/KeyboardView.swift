@@ -44,7 +44,7 @@ struct KeyboardView: View {
                         self.proxy.setMarkedText(string, selectedRange: range)
                         self.setDocumentContextInput()
                     } label: {
-                        Text("marked text")
+                        Text("marked text 1")
                             .padding()
                     }
 
@@ -54,7 +54,7 @@ struct KeyboardView: View {
                         self.proxy.setMarkedText(string, selectedRange: range)
                         self.setDocumentContextInput()
                     } label: {
-                        Text("marked text")
+                        Text("marked text 2")
                             .padding()
                     }
                 }
