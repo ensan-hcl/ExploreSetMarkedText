@@ -1,3 +1,5 @@
+[日本語](README_JP.md)
+
 # ExploreSetMarkedText
 Let's explore how setMarkedText works
 
